@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.btn{
+#btn{
 	background-color:black;        /*backGrClr btn*/
 	color:white;                    /*font color before hover*/
 	border-radius:5px;
@@ -8,7 +8,7 @@
 
 
 /*after hovering*/
-.btn:hover{
+#btn:hover{
 	background-color:yellow;            /*backGrClr btn aftr hover*/
 	color:black;                         /*font color before hover*/
 	border-radius:30px;
